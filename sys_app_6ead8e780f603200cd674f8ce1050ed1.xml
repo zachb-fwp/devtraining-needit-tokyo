@@ -15,7 +15,7 @@
         <scope>x_58872_test</scope>
         <scoped_administration>false</scoped_administration>
         <short_description/>
-        <source>x_58872_needit</source>
+        <source>x_58872_test</source>
         <store_correlation_id/>
         <store_url/>
         <sys_class_name>sys_app</sys_class_name>

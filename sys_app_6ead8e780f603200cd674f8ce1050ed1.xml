@@ -8,11 +8,11 @@
         <license_model>none</license_model>
         <logo/>
         <menu/>
-        <name>NeedIt</name>
+        <name>Test</name>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
-        <scope>x_58872_needit</scope>
+        <scope>x_58872_test</scope>
         <scoped_administration>false</scoped_administration>
         <short_description/>
         <source>x_58872_needit</source>
